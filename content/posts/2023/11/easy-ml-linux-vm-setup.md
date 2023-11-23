@@ -1,10 +1,10 @@
 +++
 title = 'Easy ML Linux VM Setup'
-date = 2023-11-21T10:47:31+01:00
+date = 2023-11-26T10:47:31+01:00
 draft = true
 author = 'Janis Hutz'
-tags = [ 'Linux', 'Windows', 'MacOS', 'Development' ]
-categories = [ 'Tutorials', 'Rants' ]
+tags = [ 'Linux', 'Windows', 'Development' ]
+categories = [ 'Tutorials' ]
 +++
 
 Developing Software on Windows is a massive pain. This is why I have created a guide for beginners that are looking to start learning machine learning and don't have a proper Operating System to do serious ML work. You may, depending on your level of commitment also install this OS as it is as Dual-Boot, I will run you through doing that down below. 
