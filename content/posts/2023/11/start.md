@@ -8,7 +8,6 @@ categories = [ 'introduction' ]
 image = '/images/2023/11/start.png'
 +++
 
-<!-- TODO: Add title image -->
 ![image](/images/2023/11/start.png)
 
 What can you expect from this blog?
@@ -26,6 +25,6 @@ This is something I haven't decided on, and I probably won't have a schedule, li
 ## How is the content organized?
 I try to keep everything organized as much as possible and might go in and change categories and tags of older articles to other ones if I find that new tags or categories fit the content of the article better.
 
-## How is this website created?
-Usually, I do my own stuff, but this time, for simplicity reasons, I have chosen to go with [Hugo](https://gohugo.io), the static site generator and I am using the [DoIt theme](https://github.com/HEIGE-PCloud/DoIt) for it.
+## How was this website created?
+Usually, I do my own stuff, but this time, for simplicity reasons, I have chosen to go with [Hugo](https://gohugo.io), the static site generator, and I am using the [DoIt theme](https://github.com/HEIGE-PCloud/DoIt) for it.
 
