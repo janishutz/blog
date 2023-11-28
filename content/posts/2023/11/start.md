@@ -1,6 +1,6 @@
 +++
 title = 'Welcome to blog.janishutz.com'
-date = 2023-11-23T10:33:29+01:00
+date = 2023-11-28T10:33:29+01:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'introduction' ]
