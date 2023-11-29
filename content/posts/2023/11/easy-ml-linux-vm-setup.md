@@ -35,8 +35,6 @@ Now click finish and you're done!
 Once the VM is booted, enter these commands to start the installation. Before you do that though, read on below:
 
 ```
-loadkeys [IDENTIFIER HERE (find it in the output above), usually of form de_CH-latin1, refer to below for more instructions]
-pacman-key --init
 pacman -Sy git
 git clone https://github.com/simplePCBuilding/arch-dev-vm
 cd arch-dev-vm
@@ -46,6 +44,7 @@ cd arch-dev-vm
 Then follow the on-screen prompts to complete the installation. 
 
 ## Selecting a Keyboard layout
+If your keyboard layout isn't US, then you might want to change it.
 Run the following command in the terminal of the booted VM:
 ```
 ls /usr/share/kbd/keymaps/**/*.map.gz > kb.txt
