@@ -52,7 +52,7 @@ ls /usr/share/kbd/keymaps/**/*.map.gz > kb.txt
 nano kb.txt
 ```
 
-This will spit out a list of keymaps. Then to select an appropriate keymap, type only the last part (after the last slash and without the .map.gz) after `loadkeys `, so for example for the default Swiss keyboard layout:
+This will spit out a list of keymaps. Then to select an appropriate keymap, press Ctrl + x and type only the last part (after the last slash and without the .map.gz) after `loadkeys `, so for example for the default Swiss keyboard layout:
 ```
 loadkeys de_CH-latin1
 ```
