@@ -9,6 +9,9 @@ categories = [ 'Tutorials' ]
 
 Developing Software on Windows is a massive pain. This is why I have created a guide for beginners that are looking to start learning machine learning and don't have a proper Operating System to do serious ML work. You may, depending on your level of commitment also install as Dual-Boot, but not with this script, as this partitions automatically for a full system wipe. You can also use this script as a starting point for a full install, as it installs all important packages automatically for you. 
 
+The GitHub repository you are going to clone when following this guide is the following: [https://github.com/simplePCBuilding/arch-dev-vm](https://github.com/simplePCBuilding/arch-dev-vm).
+It contains all scripts that are executed as part of the installation
+
 # Installation of a VM-Hypervisor
 On Windows, if you have the pro-edition, a Hypervisor comes already with the OS, but I don't recommend using Hyper-V and opt for VMWare Workstation or QEMU instead. For this guide we will be using VMWare Workstation Player as it is much easier to use. Before we get started though, please enable VT-x or AMD-V depending on if you have an Intel or AMD CPU. You can do that by heading into your device's BIOS and enabling it there. You might need to look up how this works on your device, as every BIOS is different. If you are unaware of how to get into the BIOS, the easiest way to do this on Windows is by holding down shift whilst clicking onto "Restart" and then, once it comes up, clicking onto Troubleshoot and then UEFI-Firmware settings and then restart. This will take you straight to the BIOS without having to spam the BIOS access key on boot. 
 
