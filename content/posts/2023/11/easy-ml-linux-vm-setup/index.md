@@ -100,11 +100,13 @@ After the script has finished running, you may type reboot, and you should end u
 
 A thing you might now want to do is install a so-called AUR-Helper.
 
+{{< admonition type=tip title="Tip: Installing recommended extensions if failed during install" open=false >}}
 To use all my recommended extensions in VSCodium, run the `setup-vscodium.sh` script by opening a terminal and typing the following commands:
 ```
 cd arch-dev-vm
 ./setup-vscodium.sh
 ```
+{{< /admonition >}}
 
 {{< admonition type=tip title="Tip: Installing an AUR-Helper" open=false >}}
 I personally use YAY (yet another yogurt). You install it by running the following commands in Terminator (press the Windows key and type Terminator):
