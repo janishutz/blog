@@ -5,6 +5,7 @@ draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux', 'Windows', 'Development' ]
 categories = [ 'Tutorials' ]
+series = [ 'Arch-Dev-VM' ]
 +++
 
 Developing Software on Windows is a massive pain. This is why I have created a guide for beginners that are looking to start learning machine learning and don't have a proper Operating System to do serious ML work. You may, depending on your level of commitment also install as Dual-Boot, but not with this script, as this partitions automatically for a full system wipe. You can also use this script as a starting point for a full install, as it installs all important packages automatically for you. 
