@@ -5,10 +5,8 @@ draft = false
 author = 'Janis Hutz'
 tags = [ 'introduction' ]
 categories = [ 'introduction' ]
-image = '/images/2023/11/start.png'
+featuredImage = 'start.png'
 +++
-
-![image](/images/2023/11/start.png)
 
 What can you expect from this blog?
 
