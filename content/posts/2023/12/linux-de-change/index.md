@@ -1,7 +1,7 @@
 +++
 title = 'Change your Linux Desktop Environment'
-date = 2023-11-29T15:30:11+01:00
-draft = true
+date = 2023-12-02T15:30:11+01:00
+draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux' ]
 categories = [ 'Guides' ]
