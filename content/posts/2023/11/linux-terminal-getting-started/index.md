@@ -19,7 +19,7 @@ On Linux, as always, there isn't just one shell. At the time of writing this art
 
 {{< admonition type=tip title="Tip: How to check your current shell" open=false >}}
 You can check what your current shell is by typing
-```
+```bash
 echo $SHELL
 ```
 
@@ -28,7 +28,7 @@ This will spit out the path to the shell. The part behind the last / tells you w
 
 {{< admonition type=tip title="Tip: How to change your shell" open=false >}}
 You can change your shell by typing
-```
+```bash
 chsh -s /bin/[shell name here]
 ```
 
@@ -47,7 +47,7 @@ Basically every CLI (command line interface) program has so-called *options*, al
 
 {{< admonition type=example title="Example: Command line options for ls" open=false >}}
 This is an example of the usage of flags with the command `ls`. The `-la` option means create a list of all options. The `-l` and `-a` options can be specified separately or grouped as in the example below. Usually, when one has more short arguments, they are chained to have a shorter command. The `--color` option can be used to colour the output. This is the exact command that is executed when you type `ll` if you used the install script
-```
+```bash
 ls -la --color / 
 ```
 {{< /admonition >}}
@@ -81,14 +81,14 @@ If you want to know in which folder you currently are, there's the `pwd` command
 
 {{< admonition type=example title="Example: Navigate to your home directory" open=false >}}
 You can navigate to your home folder (`~`) with the following command
-```
+```bash
 cd ~
 ```
 {{< /admonition >}}
 
 {{< admonition type=example title="Example: Navigate to the root folder" open=false >}}
 You can navigate to the root folder (`/`) with the following command
-```
+```bash
 cd /
 ```
 {{< /admonition >}}
@@ -108,21 +108,21 @@ You can use the `mv` or `rename` command to rename directory (=folder) or files.
 
 {{< admonition type=example title="Example: Copying a directory" open=false >}}
 Assume you want to *copy* the folder `~/arch-dev-vm` folder with the *cp* command to `~/projects/arch-dev-vm`.
-```
+```bash
 cp -rv ~/arch-dev-vm ~/projects/arch-dev-vm
 ```
 {{< /admonition >}}
 
 {{< admonition type=example title="Example: Moving a directory or file" open=false >}}
 Assume you want to *move* the folder `~/arch-dev-vm` folder with the *mv* command to `~/projects/arch-dev-vm`.
-```
+```bash
 mv -v ~/arch-dev-vm ~/projects/arch-dev-vm
 ```
 {{< /admonition >}}
 
 {{< admonition type=example title="Example: Renaming a directory or file" open=false >}}
 Assume you want to *rename* the folder `~/arch-dev-vn` folder with the *mv* command to `~/arch-dev-vm`.
-```
+```bash
 mv -v ~/arch-dev-vn ~/arch-dev-vm
 ```
 {{< /admonition >}}
@@ -136,21 +136,21 @@ Python has a package manager called `pip`. It can be used to install additional 
 
 You can create a new *virtual environment* with the following commands. Make sure you are in the directory you want to create the *venv* (short for *virtual environment*) in. 
 
-```
+```bash
 python -m venv [venv name here]
 ```
 
 If the command returns no output, you have successfully created a virtual environment. Now you need to enable it in this terminal to be able to use it. Just remember, it will be turned off, once you close that terminal. You can also use VSCodium's built in terminal. 
 
-```
-source [path to folder you created venv in]/[ venv name here ]/bin/activate.fish
+```bash
+source "[path to folder you created venv in]/[ venv name here ]/bin/activate.fish"
 ```
 Omit the `.fish` if you are using another shell than fish. 
 
 
 {{< admonition type=example title="Example: Creating a venv and entering it" open=false >}}
 These commands create and activate a python virtual environment called `main` in `~`.
-```
+```bash
 python -m venv main
 source ~/main/bin/activate.fish
 ```

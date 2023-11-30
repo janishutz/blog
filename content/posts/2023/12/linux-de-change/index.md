@@ -40,12 +40,12 @@ On Linux, you can have as many desktop environments on a single system as you li
 You can install a new desktop environment using your package manager. The desktop environments are usually so-called package groups, so you're going to be prompted to select what packages you want to install. 
 
 So, for example, if you want to install the `Xfce` desktop environment, you can do this by running:
-```
+```bash
 yay -S xfce4
 ```
 
 or if you don't have `yay`
-```
+```bash
 sudo pacman -S xfce4
 ```
 

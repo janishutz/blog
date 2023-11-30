@@ -71,20 +71,20 @@ Once the VM is booted, enter these commands to start the installation. Press ent
 {{< admonition type=tip title="Tip: Setting a keyboard layout" open=false >}}
 If your keyboard layout isn't US, then you might want to change it.
 Run the following command in the terminal of the booted VM:
-```
+```bash
 ls /usr/share/kbd/keymaps/**/*.map.gz > kb.txt
 nano kb.txt
 ```
 
 This will spit out a list of keymaps. Then to select an appropriate keymap, press Ctrl + x and type only the last part (after the last slash and without the .map.gz) after `loadkeys `, so for example for the default Swiss keyboard layout:
-```
+```bash
 loadkeys de_CH-latin1
 ```
 
 {{< /admonition >}}
 
 
-```
+```bash
 pacman -Sy git
 git clone https://github.com/simplePCBuilding/arch-dev-vm
 cd arch-dev-vm
@@ -102,7 +102,7 @@ A thing you might now want to do is install a so-called AUR-Helper.
 
 {{< admonition type=tip title="Tip: Installing recommended extensions if failed during install" open=false >}}
 To use all my recommended extensions in VSCodium, run the `setup-vscodium.sh` script by opening a terminal and typing the following commands:
-```
+```bash
 cd arch-dev-vm
 ./setup-vscodium.sh
 ```
@@ -111,7 +111,7 @@ cd arch-dev-vm
 {{< admonition type=tip title="Tip: Installing an AUR-Helper" open=false >}}
 I personally use YAY (yet another yogurt). You install it by running the following commands in Terminator (press the Windows key and type Terminator):
 
-```
+```bash
 cd /tmp
 git clone https://aur.archlinux.org/yay.git
 cd yay

@@ -36,7 +36,7 @@ The Package Manager for me is the only way I install software, as I don't like t
 {{< admonition type=tip title="Tip: Installing YAY" open=false >}}
 You install it by running the following commands in Terminator (press the Windows key and type Terminator):
 
-```
+```bash
 cd /tmp
 git clone https://aur.archlinux.org/yay.git
 cd yay
@@ -47,15 +47,15 @@ makepkg -si
 Syntactically speaking, their usage is basically the same. You can also update your whole system by just running one single command, which is what I recommend doing before installing new Software to avoid version mismatches.
 
 ### Installing new Software
-You can install a new package by running either one of the two commands below:
-```
-sudo pacman -S [package name here]
-yay -S [package name here]
+You can install a new package by running either one of the two commands below (without the quotes):
+```bash
+sudo pacman -S "[package name here]"
+yay -S "[package name here]""
 ```
 
 {{< admonition type=example title="Example: Installing a package" open=false >}}
 If you wanted to install Firefox, you'd run either one of the two commands:
-```
+```bash
 sudo pacman -S firefox
 yay -S firefox
 ```
@@ -69,7 +69,7 @@ Additionally, it is always important to always check what you are installing / r
 
 ### Updating
 You can update your whole system by running either one of the two commands below:
-```
+```bash
 sudo pacman -Syu
 yay -Syu
 ```
@@ -78,20 +78,20 @@ This will update EVERY package installed on your system, and you will never have
 
 ### Removing software
 You can install a new package by running either one of the two commands below:
-```
+```bash
 sudo pacman -R [package name here]
 yay -R [package name here]
 ```
 
 {{< admonition type=example title="Example: Removing a package" open=false >}}
 If you wanted to uninstall Firefox, you'd run either one of the two commands:
-```
+```bash
 sudo pacman -R firefox
 yay -R firefox
 ```
 
 If you want to remove all the package's dependencies that are no longer required for the system run:
-```
+```bash
 sudo pacman -Rs firefox
 yay -Rs firefox
 ```
