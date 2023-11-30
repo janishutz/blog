@@ -9,7 +9,7 @@ series = [ 'My Linux Journey' ]
 featuredImage = '/images/linux-journey.jpg'
 +++
 
-Attribution for featured image:
+**Attribution for featured image:**
 
 Thanks to ["malkowitch"](https://www.deviantart.com/malkowitch/gallery) for the feature graphic of this post. No modifications were made. This image is licensed under the [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) licence
 
