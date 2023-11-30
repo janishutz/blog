@@ -1,7 +1,7 @@
 +++
 title = 'Arch Linux Development Virtual Machine'
 date = 2023-11-28T10:47:31+01:00
-lastmod = 2023-11-29T20:42:40+01:00
+lastmod = 2023-11-30T21:09:40+01:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux', 'Windows', 'Development' ]
@@ -101,10 +101,10 @@ After the script has finished running, you may type reboot, and you should end u
 A thing you might now want to do is install a so-called AUR-Helper.
 
 {{< admonition type=tip title="Tip: Installing recommended extensions if failed during install" open=false >}}
-To use all my recommended extensions in VSCodium, run the `setup-vscodium.sh` script by opening a terminal and typing the following commands:
+To use all my recommended extensions in VSCodium, run the `userland.sh` script by opening a terminal and typing the following commands:
 ```bash
 cd arch-dev-vm
-./setup-vscodium.sh
+./userland.sh
 ```
 {{< /admonition >}}
 
