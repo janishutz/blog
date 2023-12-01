@@ -1,7 +1,7 @@
 +++
 title = 'Arch Linux Development Virtual Machine'
 date = 2023-11-28T10:47:31+01:00
-lastmod = 2023-11-30T21:09:40+01:00
+lastmod = 2023-12-01T16:05:40+01:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux', 'Windows', 'Development' ]
@@ -24,7 +24,7 @@ The GitHub repository you are going to clone when following this guide is the fo
 It contains all scripts that are executed as part of the installation
 
 # Installation of a VM-Hypervisor
-On Windows, if you have the pro-edition, a Hypervisor comes already with the OS, but I don't recommend using Hyper-V and opt for VMWare Workstation or QEMU instead. For this guide we will be using VMWare Workstation Player as it is much easier to use. 
+On Windows, if you have the pro-edition, a Hypervisor comes already with the OS, but I don't recommend using Hyper-V and opt for VMWare Workstation or QEMU instead. For this guide we will be using VMWare Workstation Player as it is much easier to use. You can download it from [here](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0). Make sure to select the most recent version from the dropdown!
 
 {{< admonition type=failure title="Be careful: Enable VT-x or AMD-V in your BIOS" open=true >}}
 Please enable VT-x or AMD-V depending on if you have an Intel or AMD CPU. Failing to do so will not allow you to launch your VM. You can do that by heading into your device's BIOS and enabling it there. You might need to look up how this works on your device, as every BIOS is different.  
