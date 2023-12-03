@@ -1,7 +1,7 @@
 +++
 title = 'My Linux Journey (Part 2)'
-date = 2023-12-05T15:57:04+01:00
-lastmod = 2023-12-05T15:57:04+01:00
+date = 2023-12-03T13:57:04+01:00
+lastmod = 2023-12-03T13:57:04+01:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux' ]
