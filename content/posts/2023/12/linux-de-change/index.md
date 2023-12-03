@@ -1,6 +1,7 @@
 +++
 title = 'Change your Linux Desktop Environment'
 date = 2023-12-02T15:30:11+01:00
+lastmod = 2023-12-03T14:03:11+01:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux' ]
@@ -53,18 +54,18 @@ Then, when prompted to select which packages to install, just press enter for no
 
 
 # Desktop Environments and WMs to try out
-There are numerous very interesting DEs and WMs to try out, here's a list.
+There are numerous very interesting DEs and WMs to try out, here's a list. In square brackets you can find the package / group name to install.
 
 ## Desktop Environments
-- GNOME: Super polished, very user-friendly
-- KDE: Very customizable, polished
-- Xfce: Polished, incredibly stable, highly customizable (through config files), very lightweight
-- Cinnamon: Windows-Like, somewhat customizable
-- (Cosmic: Once there is a stable release, it's going to be tiling-wm like, customizable, superfast and lightweight)
+- GNOME: Super polished, very user-friendly [gnome]
+- KDE: Very customizable, polished [plasma]
+- Xfce: Polished, incredibly stable, highly customizable (through config files), very lightweight [xfce4]
+- Cinnamon: Windows-Like, somewhat customizable [cinnamon]
+- (Cosmic: Once there is a stable release, it's going to be tiling-wm like, customizable, superfast and lightweight [cosmic-epoch-git]{AUR}. Only install and use if you know what you are doing!)
 
 ## Window Managers
-- i3wm
-- Sway
-- bspwm
-- awesome
-- Hyprland
+- i3wm [i3-wm]
+- Sway [sway]
+- bspwm [bspwm]
+- awesome [awesome]
+- Hyprland [hyprland]
