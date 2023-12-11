@@ -17,4 +17,4 @@ Thanks to ["malkowitch"](https://www.deviantart.com/malkowitch/gallery) for the 
 
 
 # My Linux Journey - Part 3: Switching to a WM
-After
+After spending months on KDE and GNOME, it was finally time to try something new...
