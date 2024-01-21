@@ -2,7 +2,7 @@
 title = 'VSCode Rant'
 date = 2024-01-21T07:23:13+01:00
 lastmod = 2024-01-21T07:23:13+01:00
-draft = true
+draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux', 'Windows', 'macOS', 'Development' ]
 categories = [ 'Rants' ]
