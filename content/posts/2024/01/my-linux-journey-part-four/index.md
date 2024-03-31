@@ -6,7 +6,7 @@ draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux' ]
 categories = [ 'Stories' ]
-series = [ 'My Linux Journey' ]
+series = [ 'my-linux-journey' ]
 series_weight = 1
 featuredImage = "/images/linux-journey.jpg"
 +++

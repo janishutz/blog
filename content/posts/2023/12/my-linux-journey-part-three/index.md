@@ -2,11 +2,11 @@
 title = 'My Linux Journey (Part 3) - WM'
 date = 2023-12-10T16:18:07+01:00
 lastmod = 2023-12-10T16:18:07+01:00
-draft = true
+draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux' ]
 categories = [ 'Stories' ]
-series = [ 'My Linux Journey' ]
+series = [ 'my-linux-journey' ]
 series_weight = 3
 featuredImage = "/images/linux-journey.jpg"
 +++
