@@ -1,14 +1,14 @@
 +++
 title = 'Upcoming Projects'
-date = 2024-03-31T11:01:07+01:00
-lastmod = 2024-03-31T11:01:07+01:00
+date = 2024-04-21T14:26:13+02:00
+lastmod = 2024-04-21T14:26:13+02:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'Development' ]
 categories = [ 'News' ]
 series = []
 series_weight = 1
-featuredImage = ""
+featuredImage = "new-projects.jpg"
 +++
 
 I haven't written any blog posts in over a month. This is because I have taken some time off from coding to focus on my finals exams and to prepare for my studies, which, if everything goes according to plan, should start this September. 
@@ -34,3 +34,8 @@ Since there are not really any mature graphical impress.js presentation editors 
 
 
 Next to all of those projects, I will be working on general improvements to my websites and I will be adding Privacy Preserving Product Analytics to my websites. If you are interested, you can read up on this [here](/posts/2024/04/analytics)
+
+
+
+**Attribution for cover image**
+https://www.picpedia.org/highway-signs/images/new-projects.jpg
