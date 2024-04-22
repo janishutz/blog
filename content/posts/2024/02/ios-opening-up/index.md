@@ -1,17 +1,17 @@
 +++
 title = 'iOS Opening Up'
 date = 2024-02-24T11:02:05+01:00
-lastmod = 2024-02-24T11:02:05+01:00
+lastmod = 2024-04-22T18:02:05+01:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'macOS', 'Development' ]
 categories = [ 'Rants', 'News' ]
 series = []
 series_weight = 1
-featuredImage = "/images/app_store_download.jpg"
+featuredImage = "cover.jpg"
 +++
 
-A couple of weeks ago, Apple announced that they are going to open up iOS. As somebody who develops apps for iOS this proposition seemed really nice at first glance, but when you dive into what they actually did, things are significantly worse than what they already have. 
+A couple of weeks ago, Apple announced that they are going to open up iOS. As somebody who develops apps for iOS this proposition seemed really nice at first glance, but when you dive into what they actually did, things are significantly worse than what they already were. 
 
 This post was delayed due to the fact that I had barely any time to do a full write-up on this topic until now.
 
@@ -29,4 +29,4 @@ I did not expect Apple to give up on that revenue without a fight, but they seem
 
 
 # My actions as a result of this
-I was already planning to switch to a degoogled Android phone for quite some time, but this change has significantly increased my urge to move to Android, especially since Apple breaks the few PWAs I was using even more, having them open in the default browser. I am planning to switch to a Fairphone 5 with CalyxOS, as soon as an official build for it is released. I would not be willing to go to Android to have Google take my data, as I really hate Google. The plan for the future will be to switch to PostmarketOS, as soon as it gets ready for prime time, maybe even earlier. I will be writing a blog post here, once I switched to Android and will keep you posted on my thoughts, as someone, who has so far only daily driven iOS, as when you are a student you can't afford to go out to buy a new phone, if you don't want to continue using your current one, as I also have to get a new Notebook soon, and I recently upgraded my PC with a 5950X (which required a motherboard change because my motherboard, even though MSI claimed that the 5950X would work with it, didn't work with the 5950X) and a 7800XT to do some serious ML and be ready to compile bigger and bigger software which I am developing. But I might move purchasing the new Laptop back a couple of months, as I can just remote into my PC at home to do actual work.
+For how I distribute my apps, this won't change. I will stick to distributing through the iOS App Store, at the current rates, which for me were 15% only anyway, because I earn less than USD 1'000'000 a year (well very far from that). I am still pained, that this only applies to the EU. As it looks like though, the US might have something up their sleeves, as they sued Apple. We'll have to see. I will be updating this post from time to time to add more context.
