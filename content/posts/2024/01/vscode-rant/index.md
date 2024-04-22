@@ -8,7 +8,7 @@ tags = [ 'Linux', 'Windows', 'macOS', 'Development' ]
 categories = [ 'Rants' ]
 series = []
 series_weight = 1
-featuredImage = ""
+featuredImage = "cover.jpg"
 +++
 
 # VSCode and its requirements to have an official build by Microsoft to use certain extensions

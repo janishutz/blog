@@ -8,7 +8,7 @@ tags = [ 'macOS', 'Development' ]
 categories = [ 'Rants', 'News' ]
 series = []
 series_weight = 1
-featuredImage = ""
+featuredImage = "/images/app_store_download.jpg"
 +++
 
 A couple of weeks ago, Apple announced that they are going to open up iOS. As somebody who develops apps for iOS this proposition seemed really nice at first glance, but when you dive into what they actually did, things are significantly worse than what they already have. 

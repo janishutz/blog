@@ -8,7 +8,7 @@ tags = [ 'Linux', 'macOS', 'Development' ]
 categories = [ 'Rants' ]
 series = [ 'web-dev' ]
 series_weight = 1
-featuredImage = ""
+featuredImage = "cover.jpg"
 +++
 
 WebKit, WebKit, WebKit, why are you so bad?
@@ -34,3 +34,7 @@ Personally, I hope that Apple tries to make WebKit a competent and competitive r
 
 # What can we do?
 The best thing we can do is to never use Chromium browser, except maybe for checking that a website we just developed looks as intended on Chromium based browsers and instead use Gecko based browsers like Firefox, LibreWolf, Mullvad Browser, Waterfox and many more. Additionally, if you are fortunate to be on Linux use GNOME Web (aka Epiphany), Konqueror or similar browsers that are based on WebKit2GTK, which is using a more upstream version of WebKit than Safari is at times.
+
+
+**Attribution of cover image**
+By Apple - https://webkit.org, LGPL, https://commons.wikimedia.org/w/index.php?curid=129303403

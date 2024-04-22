@@ -6,7 +6,7 @@ draft = false
 author = 'Janis Hutz'
 tags = [ 'Development' ]
 categories = [  'News' ]
-featuredImage = ""
+featuredImage = "/posts/2024/04/upcoming-projects/new-projects.jpg"
 +++
 
 I have not been posting much here over the past half a month, as I have been busy working on various projects and also planning a few projects. So, here's what projects are currently ongoing and what projects are upcoming
@@ -28,3 +28,7 @@ When I find the time, I will be porting the QR & Barcode Insight App to Android 
 
 # StorageManager
 I will probably partially or fully rewrite that app to make it more flexible, reliable and feature-rich. No timeline for this decided on just yet.
+
+
+**Attribution for cover image**
+https://www.picpedia.org/highway-signs/images/new-projects.jpg
