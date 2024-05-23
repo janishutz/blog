@@ -1,7 +1,7 @@
 +++
 title = 'Store'
-date = 2024-05-01T08:02:50+02:00
-lastmod = 2024-05-01T08:02:50+02:00
+date = 2024-05-23T16:02:50+02:00
+lastmod = 2024-05-23T08:02:50+02:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'Development' ]
@@ -14,7 +14,7 @@ featuredImage = "cover.png"
 
 As announced previously, I am working on a Software Store at [https://store.janishutz.com](https://store.janishutz.com).
 
-I expect the store to launch within the next two or so months, as there is still a lot to do, but a lot has been implemented already. The title image of this post is a preview on how the store is going to look. I opted to create a very modern look. 
+I expect the store to launch within the next two or so months, to be precise June 30th 2024, but this date might move, as there is still a lot to do, but a lot has been implemented already. The title image of this post is a preview on how the store is going to look. I opted to create a very modern look. 
 
 
 # Offering

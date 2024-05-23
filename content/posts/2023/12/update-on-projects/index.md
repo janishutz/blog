@@ -1,9 +1,10 @@
 +++
-title = 'Update on Projects'
+title = 'Project Updates December 2023'
 date = 2023-12-27T15:44:46+01:00
 lastmod = 2023-12-27T15:44:46+01:00
 draft = false
 author = 'Janis Hutz'
+series = [ 'project-updates' ]
 tags = [ 'Development' ]
 categories = [  'News' ]
 featuredImage = "/posts/2024/04/upcoming-projects/new-projects.jpg"

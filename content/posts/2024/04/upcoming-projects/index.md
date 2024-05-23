@@ -1,12 +1,12 @@
 +++
-title = 'Upcoming Projects'
+title = 'Project Updates April 2024'
 date = 2024-04-21T14:26:13+02:00
 lastmod = 2024-04-21T14:26:13+02:00
 draft = false
 author = 'Janis Hutz'
 tags = [ 'Development' ]
 categories = [ 'News' ]
-series = []
+series = [ 'project-updates' ]
 series_weight = 1
 featuredImage = "new-projects.jpg"
 +++
