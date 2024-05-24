@@ -20,6 +20,7 @@ I have finally finished my written finals exams, giving me lots more time to spe
 - Janishutz ID: May 31st 2024
 - Software Store: June 30th 2024
 - ConductorCalc: September 15th 2024
+- Discord Bot: TBA
 - Graphical Impress.js editor: TBA
 
 # Janishutz ID
@@ -30,6 +31,10 @@ There is a [full article on the store](https://blog.janishutz.com/posts/2024/05/
 
 # ConductorCalc
 This project is still in early planning phase, as I still have to finish the store to even begin implementing this software. The algorithms are developed though and only need translating into TypeScript. 
+
+
+# Discord Bot
+This project is currently in the early planning stages, some of the features have been laid out. This bot will be subscription-based and will also be used for my own discord server. There is currently no ETA for when the bot will be finished, and I will keep you posted with updates.
 
 
 # Graphical Impress.js editor
