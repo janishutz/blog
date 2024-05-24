@@ -23,6 +23,8 @@ I have finally finished my written finals exams, giving me lots more time to spe
 - Discord Bot: TBA
 - Graphical Impress.js editor: TBA
 
+These dates are not set in stone, as there might be some issues arising, postponing the releases.
+
 # Janishutz ID
 This project is mostly done, only thing left is to finish bug-testing, which I am currently working on while I am developing the store. Most bugs have been ironed out by now. If you'd like to help me iron out the last ones, you can [sign up for an account](https://id.janishutz.com) (which will not transfer to the full release). If you find a bug, contact me through my [support system](https://support.janishutz.com/index.php?a=add&category=7).
 
