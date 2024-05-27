@@ -17,7 +17,7 @@ I have finally finished my written finals exams, giving me lots more time to spe
 
 # Software releases
 
-- Janishutz ID: May 31st 2024
+- Janishutz ID: May 31st 2024 (actually released: May 27th 2024)
 - Software Store: June 30th 2024
 - ConductorCalc: September 15th 2024
 - Discord Bot: TBA
@@ -29,7 +29,7 @@ These dates are not set in stone, as there might be some issues arising, postpon
 This project is mostly done, only thing left is to finish bug-testing, which I am currently working on while I am developing the store. Most bugs have been ironed out by now. If you'd like to help me iron out the last ones, you can [sign up for an account](https://id.janishutz.com) (which will not transfer to the full release). If you find a bug, contact me through my [support system](https://support.janishutz.com/index.php?a=add&category=7).
 
 # Software Store
-There is a [full article on the store](https://blog.janishutz.com/posts/2024/05/store/). In short, what I still need to do, is implement the payment gateways, finish the account services, maybe add an admin panel, but that will probably have to wait, as that's simply to make my life a bit easier. (An early beta, backend-less version of the store is available at [https://testing.store.janishutz.com](https://testing.store.janishutz.com). There might be an SSL warning, which you can skip, as I haven't fully configured that page yet.)
+There is a [full article on the store](https://blog.janishutz.com/posts/2024/05/store/). In short, what I still need to do, is implement the payment gateways, finish the account services, maybe add an admin panel, but that will probably have to wait, as that's simply to make my life a bit easier. (An early beta, backend-less version of the store is available at [https://store-testing.janishutz.com](https://store-testing.janishutz.com). There might be an SSL warning, which you can skip, as I haven't fully configured that page yet.)
 
 # ConductorCalc
 This project is still in early planning phase, as I still have to finish the store to even begin implementing this software. The algorithms are developed though and only need translating into TypeScript. 
