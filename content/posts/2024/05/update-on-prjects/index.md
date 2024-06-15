@@ -18,7 +18,7 @@ I have finally finished my written finals exams, giving me lots more time to spe
 # Software releases
 
 - Janishutz ID: May 31st 2024 (actually released: May 27th 2024)
-- Software Store: June 30th 2024
+- Software Store: June 30th 2024 (actually released: June 5th 2024)
 - ConductorCalc: September 15th 2024
 - Discord Bot: TBA
 - Graphical Impress.js editor: TBA
