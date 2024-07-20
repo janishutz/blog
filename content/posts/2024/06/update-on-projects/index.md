@@ -2,7 +2,7 @@
 title = 'Project Updates June 2024'
 date = 2024-06-26T18:02:25+02:00
 lastmod = 2024-06-26T18:02:25+02:00
-draft = true
+draft = false
 author = 'Janis Hutz'
 tags = [ 'Development' ]
 categories = [ 'News' ]
@@ -40,7 +40,6 @@ So far, most essential features are implemented. Most notably, the remote showca
 
 ## Features
 - Mix Apple Music and local songs into one playlist
-- Export and Import previous playlists
 - Reorder songs
 - All the features you'd expect from a normal music player
 - Access your Apple Music Playlists
