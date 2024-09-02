@@ -7,7 +7,7 @@ author = 'Janis Hutz'
 tags = [ 'Development' ]
 categories = [ 'News' ]
 series = [ 'project-updates' ]
-series_weight = 5
+series_weight = 4
 featuredImage = "/posts/2024/04/upcoming-projects/new-projects.jpg"
 +++
 
