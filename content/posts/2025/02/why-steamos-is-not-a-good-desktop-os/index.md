@@ -2,13 +2,13 @@
 title = 'Why Steamos Is Not a Good Desktop Os'
 date = 2025-02-08T10:20:51+01:00
 lastmod = 2025-02-08T10:20:51+01:00
-draft = true
+draft = false
 author = 'Janis Hutz'
-tags = [ 'Linux', 'Windows', 'macOS', 'Development', 'General', 'Hardware' ]
-categories = [ 'Guides', 'Tutorials', 'Rants', 'Stories', 'News' ]
+tags = [ 'Linux', 'Windows' ]
+categories = [ 'Guides', 'Rants' ]
 series = []
 series_weight = 1
-featuredImage = ""
+featuredImage = "cover.jpg"
 +++
 
 *Welcome back! I have had some issues with my blog engine that took a bit of time to figure out, but now it's working again. I will also have much more time now, since my exams are over*

@@ -1,5 +1,5 @@
 +++
-title = 'Project Updates'
+title = 'Project Updates December 2024'
 date = 2024-12-25T09:57:30+01:00
 lastmod = 2024-12-25T09:57:30+01:00
 draft = false
