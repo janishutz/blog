@@ -2,10 +2,11 @@ baseURL = 'https://blog.janishutz.com/'
 languageCode = 'en-us'
 title = 'blog.janishutz.com'
 theme = 'DoIt'
-# post pagination
-paginate = "25"
 # post excerpt
 summaryLength = "10"
+
+[pagination]
+  pagerSize = "25"
 
 [params]
   # DoIt theme version
@@ -59,13 +60,11 @@ summaryLength = "10"
     [params.page.related]
       enable = true
       count = 5
-
-
-[author]
-  name = 'Janis Hutz'
-  email = 'development@janishutz.com'
-  link = 'https://janishutz.com'
-  avatar = '/images/avatar.png'
+  [params.author]
+      name = 'Janis Hutz'
+      email = 'development@janishutz.com'
+      link = 'https://janishutz.com'
+      avatar = '/images/avatar.png'
 
 [menu]
   [[menu.main]]
