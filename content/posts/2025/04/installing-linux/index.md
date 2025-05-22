@@ -61,7 +61,7 @@ For all people who want to say "*Why did you not include distro X or desktop Y*"
 
 
 # Setting up
-Once you have chosen your distribution and desktop, go to the download page of the distribution you want and download it. You can find downloads for EndeavourOS [here](https://endeavouros.com), for Linux Mint [here](https://linuxmint.com/download.php), for Fedora [here](https://fedoraproject.org/workstation/download), for Debian [here](https://debian.org/download), for Arch [here](https://archlinux.org/download).
+Once you have chosen your distribution and desktop, go to the download page of the distribution you want and download it. You can find downloads for EndeavourOS [here](https://endeavouros.com) (be aware it is aimed towards *slightly* more tech-savvy people), for Linux Mint [here](https://linuxmint.com/download.php), for Fedora [here](https://fedoraproject.org/workstation/download), for Debian [here](https://debian.org/download), for Arch [here](https://archlinux.org/download).
 
 Now, you will need to find an empty USB drive (or empty a USB drive) and download [Rufus](https://rufus.ie/). Rufus is a tool to write a .iso file to a USB drive. After the download is complete, open up Rufus and select the Device. Rufus should only show one option, but do make sure the drive you want to use is selected and that nothing important is on it. *THIS STEP WILL ERASE ALL DATA ON THAT DRIVE*. Then pick the just downloaded ISO file in the input field just below. Then, once you have done that, simply click "Start" below and wait for the process to finish.
 
