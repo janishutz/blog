@@ -2,13 +2,13 @@
 title = 'Installing Linux'
 date = 2025-04-17T14:56:34+02:00
 lastmod = 2025-04-17T14:56:34+02:00
-draft = true
+draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux', 'Windows' ]
 categories = [ 'Guides', 'Tutorials' ]
 series = [ 'linux-beginner-guide' ]
 series_weight = 2
-featuredImage = ""
+featuredImage = "cover.jpg"
 +++
 
 With End Of Life of Windows looming, you will have at least four options (sorted in order of best experience):
@@ -73,3 +73,17 @@ Now, we want to actually install the operating system. Here are a few notes of c
 - This guide aims to be as accurate as possible, but it can't cover all aspects, so better check online if you are unsure. AI is your friend here, believe it or not. I will take no responsibility if you loose data here.
 
 With that out of the way, let's get started. In Windows, open the start menu, and hold down shift while you click "Restart". Then in the menu that appears, click "Troubleshoot" > "Advanced Options" > "UEFI Firmware Settings"
+
+Now that you are in BIOS, telling you what to do is a *bit* more tricky. Some devices have a specific one-time boot picker, others do not. For most BIOSes, you can boot off a different device by going to the "Boot" tab and selecting your USB drive. 
+
+Select your drive to boot off of it and wait for your Linux distro to boot up.
+
+Once that is done, on most distros, the installer will auto-launch. Make sure you connect your device to the internet, so the installer can download the required files, if the installer is using network-install. It will also allow the installer to automatically install the latest updates and any software you can choose in the installer. 
+
+Since the install process for most distros is quite similar and well guided by their installer, I will skip this part mostly.
+
+Click through the installer, selecting your region, your keyboard layout (most installers nowadays feature an auto-detect functionality for that even), if necessary, select your desktop environment and any software it asks you if you want to have it installed (that you actually need or want to have) and wait for the install to finish.
+
+The system will now reboot. Two things may now happen: Usually, you will boot straight to your new OS, but if you do not and boot back to the installer, simply shut down from booted distro, unplug the USB drive and boot up again. You should now be in your new operating system.
+
+**Congratulations, you have installed Linux on your device!**
