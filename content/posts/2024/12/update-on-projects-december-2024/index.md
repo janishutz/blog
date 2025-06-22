@@ -6,8 +6,8 @@ draft = false
 author = 'Janis Hutz'
 tags = [ 'Linux', 'Development', 'General', 'Hardware' ]
 categories = [ 'News' ]
-series = []
-series_weight = 1
+series = [ 'project-updates' ]
+series_weight = 7
 featuredImage = "/posts/2024/04/upcoming-projects/new-projects.jpg"
 +++
 
