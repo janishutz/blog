@@ -2,7 +2,7 @@
 title = 'Project Updates June 2025'
 date = 2025-06-30T12:23:34+02:00
 lastmod = 2025-06-30T12:23:34+02:00
-draft = true
+draft = false
 author = 'Janis Hutz'
 tags = [ 'Development' ]
 categories = [ 'News' ]
